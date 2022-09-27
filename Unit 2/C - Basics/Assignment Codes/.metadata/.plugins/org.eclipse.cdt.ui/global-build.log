@@ -1,0 +1,876 @@
+20:31:23 **** Rebuild of configuration Debug for project Ex 1 - Even or Odd ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "Ex 1 - Even or Odd.exe" main.o 
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 1 - Even or Odd
+20:31:40 **** Incremental Build of configuration Debug for project Ex 1 - Even or Odd ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "Ex 1 - Even or Odd.exe" main.o 
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 1 - Even or Odd
+20:35:51 **** Rebuild of configuration Debug for project Ex 2 - Vowel or Not ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "Ex 2 - Vowel or Not.exe" main.o 
+Info: Nothing to build for Ex 2 - Vowel or Not
+Info: Nothing to build for Ex 1 - Even or Odd
+20:36:51 **** Incremental Build of configuration Debug for project Ex 2 - Vowel or Not ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "Ex 2 - Vowel or Not.exe" main.o 
+Info: Nothing to build for Ex 2 - Vowel or Not
+Info: Nothing to build for Ex 2 - Vowel or Not
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+21:04:52 **** Rebuild of configuration Debug for project Ex 3 - Largest Number ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:22:14: warning: format '%f' expects argument of type 'double', but argument 2 has type 'float *' [-Wformat=]
+   printf("\n%f is the Largest Number", &a);
+              ^
+..\main.c:26:14: warning: format '%f' expects argument of type 'double', but argument 2 has type 'float *' [-Wformat=]
+   printf("\n%f is the Largest Number", &b);
+              ^
+..\main.c:29:14: warning: format '%f' expects argument of type 'double', but argument 2 has type 'float *' [-Wformat=]
+   printf("\n%f is the Largest Number", &c);
+              ^
+gcc -o "Ex 3 - Largest Number.exe" main.o 
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+21:06:26 **** Incremental Build of configuration Debug for project Ex 3 - Largest Number ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:22:16: warning: format '%f' expects argument of type 'double', but argument 2 has type 'float *' [-Wformat=]
+   printf("\n.3%f is the Largest Number", &a);
+                ^
+..\main.c:26:16: warning: format '%f' expects argument of type 'double', but argument 2 has type 'float *' [-Wformat=]
+   printf("\n.3%f is the Largest Number", &b);
+                ^
+..\main.c:29:16: warning: format '%f' expects argument of type 'double', but argument 2 has type 'float *' [-Wformat=]
+   printf("\n%.3f is the Largest Number", &c);
+                ^
+gcc -o "Ex 3 - Largest Number.exe" main.o 
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+21:06:54 **** Incremental Build of configuration Debug for project Ex 3 - Largest Number ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:24:16: warning: format '%f' expects argument of type 'double', but argument 2 has type 'float *' [-Wformat=]
+   printf("\n.3%f is the Largest Number", &a);
+                ^
+..\main.c:28:16: warning: format '%f' expects argument of type 'double', but argument 2 has type 'float *' [-Wformat=]
+   printf("\n.3%f is the Largest Number", &b);
+                ^
+..\main.c:31:16: warning: format '%f' expects argument of type 'double', but argument 2 has type 'float *' [-Wformat=]
+   printf("\n%.3f is the Largest Number", &c);
+                ^
+gcc -o "Ex 3 - Largest Number.exe" main.o 
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+21:10:30 **** Incremental Build of configuration Debug for project Ex 3 - Largest Number ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:24:16: warning: format '%f' expects argument of type 'double', but argument 2 has type 'float *' [-Wformat=]
+   printf("\n.3%f is the Largest Number", &a);
+                ^
+..\main.c:28:16: warning: format '%f' expects argument of type 'double', but argument 2 has type 'float *' [-Wformat=]
+   printf("\n.3%f is the Largest Number", &b);
+                ^
+..\main.c:31:16: warning: format '%f' expects argument of type 'double', but argument 2 has type 'float *' [-Wformat=]
+   printf("\n%.3f is the Largest Number", &c);
+                ^
+gcc -o "Ex 3 - Largest Number.exe" main.o 
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+21:12:39 **** Incremental Build of configuration Debug for project Ex 3 - Largest Number ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:24:17: warning: format '%lf' expects argument of type 'double', but argument 2 has type 'float *' [-Wformat=]
+   printf("\n.3%lf is the Largest Number", &a);
+                 ^
+..\main.c:28:16: warning: format '%f' expects argument of type 'double', but argument 2 has type 'float *' [-Wformat=]
+   printf("\n.3%f is the Largest Number", &b);
+                ^
+..\main.c:31:16: warning: format '%f' expects argument of type 'double', but argument 2 has type 'float *' [-Wformat=]
+   printf("\n%.3f is the Largest Number", &c);
+                ^
+gcc -o "Ex 3 - Largest Number.exe" main.o 
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+21:13:01 **** Incremental Build of configuration Debug for project Ex 3 - Largest Number ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:24:16: warning: format '%f' expects argument of type 'double', but argument 2 has type 'float *' [-Wformat=]
+   printf("\n.3%f is the Largest Number", &a);
+                ^
+..\main.c:28:16: warning: format '%f' expects argument of type 'double', but argument 2 has type 'float *' [-Wformat=]
+   printf("\n.3%f is the Largest Number", &b);
+                ^
+..\main.c:31:16: warning: format '%f' expects argument of type 'double', but argument 2 has type 'float *' [-Wformat=]
+   printf("\n%.3f is the Largest Number", &c);
+                ^
+gcc -o "Ex 3 - Largest Number.exe" main.o 
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+21:32:04 **** Incremental Build of configuration Debug for project Ex 3 - Largest Number ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:22:14: warning: format '%d' expects argument of type 'int', but argument 2 has type 'int *' [-Wformat=]
+   printf("\n%d is the Largest Number", &a);
+              ^
+..\main.c:26:14: warning: format '%d' expects argument of type 'int', but argument 2 has type 'int *' [-Wformat=]
+   printf("\n%d is the Largest Number", &b);
+              ^
+..\main.c:29:14: warning: format '%d' expects argument of type 'int', but argument 2 has type 'int *' [-Wformat=]
+   printf("\n%d is the Largest Number", &c);
+              ^
+gcc -o "Ex 3 - Largest Number.exe" main.o 
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+21:32:49 **** Incremental Build of configuration Debug for project Ex 3 - Largest Number ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:22:14: warning: format '%d' expects argument of type 'int', but argument 2 has type 'int *' [-Wformat=]
+   printf("\n%d is the Largest Number", &a);
+              ^
+..\main.c:26:14: warning: format '%d' expects argument of type 'int', but argument 2 has type 'int *' [-Wformat=]
+   printf("\n%d is the Largest Number", &b);
+              ^
+..\main.c:29:14: warning: format '%d' expects argument of type 'int', but argument 2 has type 'int *' [-Wformat=]
+   printf("\n%d is the Largest Number", &c);
+              ^
+gcc -o "Ex 3 - Largest Number.exe" main.o 
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+21:33:35 **** Incremental Build of configuration Debug for project Ex 3 - Largest Number ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:22:16: warning: format '%f' expects argument of type 'double', but argument 2 has type 'float *' [-Wformat=]
+   printf("\n.3%f is the Largest Number", &a);
+                ^
+..\main.c:26:16: warning: format '%f' expects argument of type 'double', but argument 2 has type 'float *' [-Wformat=]
+   printf("\n.3%f is the Largest Number", &b);
+                ^
+..\main.c:29:16: warning: format '%f' expects argument of type 'double', but argument 2 has type 'float *' [-Wformat=]
+   printf("\n%.3f is the Largest Number", &c);
+                ^
+gcc -o "Ex 3 - Largest Number.exe" main.o 
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+Info: Nothing to build for Ex 3 - Largest Number
+21:36:47 **** Rebuild of configuration Debug for project Ex 4 - Positive or Negative ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "Ex 4 - Positive or Negative.exe" main.o 
+Info: Nothing to build for Ex 4 - Positive or Negative
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+Info: Nothing to build for Ex 3 - Largest Number
+21:37:07 **** Incremental Build of configuration Debug for project Ex 4 - Positive or Negative ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "Ex 4 - Positive or Negative.exe" main.o 
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+21:37:23 **** Incremental Build of configuration Debug for project Ex 3 - Largest Number ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "Ex 3 - Largest Number.exe" main.o 
+Info: Nothing to build for Ex 4 - Positive or Negative
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+21:37:55 **** Incremental Build of configuration Debug for project Ex 3 - Largest Number ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "Ex 3 - Largest Number.exe" main.o 
+Info: Nothing to build for Ex 4 - Positive or Negative
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+Info: Nothing to build for Ex 3 - Largest Number
+21:39:53 **** Incremental Build of configuration Debug for project Ex 4 - Positive or Negative ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o test.o "..\\test.c" 
+gcc -o "Ex 4 - Positive or Negative.exe" main.o test.o 
+test.o: In function `main':
+D:\My Online Courses Files\Embedded Systems Diploma\Unit 2\Lec 3 - C Basics\Assignment Codes\Ex 4 - Positive or Negative\Debug/../test.c:13: multiple definition of `main'
+main.o:D:\My Online Courses Files\Embedded Systems Diploma\Unit 2\Lec 3 - C Basics\Assignment Codes\Ex 4 - Positive or Negative\Debug/../main.c:13: first defined here
+collect2.exe: error: ld returned 1 exit status
+21:39:59 **** Incremental Build of configuration Debug for project Ex 4 - Positive or Negative ****
+Info: Internal Builder is used for build
+gcc -o "Ex 4 - Positive or Negative.exe" main.o test.o 
+test.o: In function `main':
+D:\My Online Courses Files\Embedded Systems Diploma\Unit 2\Lec 3 - C Basics\Assignment Codes\Ex 4 - Positive or Negative\Debug/../test.c:13: multiple definition of `main'
+main.o:D:\My Online Courses Files\Embedded Systems Diploma\Unit 2\Lec 3 - C Basics\Assignment Codes\Ex 4 - Positive or Negative\Debug/../main.c:13: first defined here
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+Info: Nothing to build for Ex 3 - Largest Number
+21:40:25 **** Incremental Build of configuration Debug for project Ex 4 - Positive or Negative ****
+Info: Internal Builder is used for build
+gcc -o "Ex 4 - Positive or Negative.exe" main.o 
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+21:40:49 **** Incremental Build of configuration Debug for project Ex 3 - Largest Number ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o test.o "..\\test.c" 
+gcc -o "Ex 3 - Largest Number.exe" main.o test.o 
+test.o: In function `main':
+D:\My Online Courses Files\Embedded Systems Diploma\Unit 2\Lec 3 - C Basics\Assignment Codes\Ex 3 - Largest Number\Debug/../test.c:13: multiple definition of `main'
+main.o:D:\My Online Courses Files\Embedded Systems Diploma\Unit 2\Lec 3 - C Basics\Assignment Codes\Ex 3 - Largest Number\Debug/../main.c:13: first defined here
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for Ex 4 - Positive or Negative
+21:40:52 **** Incremental Build of configuration Debug for project Ex 3 - Largest Number ****
+Info: Internal Builder is used for build
+gcc -o "Ex 3 - Largest Number.exe" main.o test.o 
+test.o: In function `main':
+D:\My Online Courses Files\Embedded Systems Diploma\Unit 2\Lec 3 - C Basics\Assignment Codes\Ex 3 - Largest Number\Debug/../test.c:13: multiple definition of `main'
+main.o:D:\My Online Courses Files\Embedded Systems Diploma\Unit 2\Lec 3 - C Basics\Assignment Codes\Ex 3 - Largest Number\Debug/../main.c:13: first defined here
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+21:41:08 **** Incremental Build of configuration Debug for project Ex 3 - Largest Number ****
+Info: Internal Builder is used for build
+gcc -o "Ex 3 - Largest Number.exe" main.o 
+Info: Nothing to build for Ex 4 - Positive or Negative
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 4 - Positive or Negative
+22:04:33 **** Rebuild of configuration Debug for project Ex 5 - Alphabet or Not ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "Ex 5 - Alphabet or Not.exe" main.o 
+Info: Nothing to build for Ex 5 - Alphabet or Not
+Info: Nothing to build for Ex 5 - Alphabet or Not
+Info: Nothing to build for Ex 5 - Alphabet or Not
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 4 - Positive or Negative
+Info: Nothing to build for Ex 5 - Alphabet or Not
+22:17:21 **** Rebuild of configuration Debug for project Ex 6 - Sum of Natural Numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "Ex 6 - Sum of Natural Numbers.exe" main.o 
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 4 - Positive or Negative
+Info: Nothing to build for Ex 5 - Alphabet or Not
+Info: Nothing to build for Ex 6 - Sum of Natural Numbers
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 4 - Positive or Negative
+Info: Nothing to build for Ex 5 - Alphabet or Not
+22:17:50 **** Incremental Build of configuration Debug for project Ex 6 - Sum of Natural Numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "Ex 6 - Sum of Natural Numbers.exe" main.o 
+Info: Nothing to build for Ex 6 - Sum of Natural Numbers
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 4 - Positive or Negative
+Info: Nothing to build for Ex 5 - Alphabet or Not
+Info: Nothing to build for Ex 6 - Sum of Natural Numbers
+22:27:26 **** Rebuild of configuration Debug for project Ex 7 - Factorials ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:32:3: warning: implicit declaration of function 'print' [-Wimplicit-function-declaration]
+   print("\nFactorial of Negative Numbers DO NOT EXIST!");
+   ^~~~~
+gcc -o "Ex 7 - Factorials.exe" main.o 
+main.o: In function `main':
+D:\My Online Courses Files\Embedded Systems Diploma\Unit 2\Lec 3 - C Basics\Assignment Codes\Ex 7 - Factorials\Debug/../main.c:32: undefined reference to `print'
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 4 - Positive or Negative
+Info: Nothing to build for Ex 5 - Alphabet or Not
+Info: Nothing to build for Ex 6 - Sum of Natural Numbers
+22:27:34 **** Incremental Build of configuration Debug for project Ex 7 - Factorials ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "Ex 7 - Factorials.exe" main.o 
+Info: Nothing to build for Ex 7 - Factorials
+Info: Nothing to build for Ex 7 - Factorials
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 4 - Positive or Negative
+Info: Nothing to build for Ex 5 - Alphabet or Not
+Info: Nothing to build for Ex 6 - Sum of Natural Numbers
+22:31:11 **** Incremental Build of configuration Debug for project Ex 7 - Factorials ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "Ex 7 - Factorials.exe" main.o 
+Info: Nothing to build for Ex 7 - Factorials
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 4 - Positive or Negative
+Info: Nothing to build for Ex 5 - Alphabet or Not
+Info: Nothing to build for Ex 6 - Sum of Natural Numbers
+22:31:32 **** Incremental Build of configuration Debug for project Ex 7 - Factorials ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "Ex 7 - Factorials.exe" main.o 
+Info: Nothing to build for Ex 7 - Factorials
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 4 - Positive or Negative
+Info: Nothing to build for Ex 5 - Alphabet or Not
+Info: Nothing to build for Ex 6 - Sum of Natural Numbers
+22:31:49 **** Incremental Build of configuration Debug for project Ex 7 - Factorials ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "Ex 7 - Factorials.exe" main.o 
+Info: Nothing to build for Ex 7 - Factorials
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 4 - Positive or Negative
+Info: Nothing to build for Ex 5 - Alphabet or Not
+Info: Nothing to build for Ex 6 - Sum of Natural Numbers
+Info: Nothing to build for Ex 7 - Factorials
+Info: Nothing to build for Ex 7 - Factorials
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 4 - Positive or Negative
+Info: Nothing to build for Ex 5 - Alphabet or Not
+Info: Nothing to build for Ex 6 - Sum of Natural Numbers
+22:34:33 **** Incremental Build of configuration Debug for project Ex 7 - Factorials ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:34:12: error: stray '\' in program
+   printf(""\nFactorial of %d = %d", n, fact")
+            ^
+..\main.c:34:13: error: expected ')' before 'nFactorial'
+   printf(""\nFactorial of %d = %d", n, fact")
+             ^~~~~~~~~~
+..\main.c:34:10: warning: zero-length ms_printf format string [-Wformat-zero-length]
+   printf(""\nFactorial of %d = %d", n, fact")
+          ^~
+..\main.c:35:2: error: expected ';' before '}' token
+  }
+  ^
+22:34:34 **** Incremental Build of configuration Debug for project Ex 7 - Factorials ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:34:12: error: stray '\' in program
+   printf(""\nFactorial of %d = %d", n, fact")
+            ^
+..\main.c:34:13: error: expected ')' before 'nFactorial'
+   printf(""\nFactorial of %d = %d", n, fact")
+             ^~~~~~~~~~
+..\main.c:34:10: warning: zero-length ms_printf format string [-Wformat-zero-length]
+   printf(""\nFactorial of %d = %d", n, fact")
+          ^~
+..\main.c:35:2: error: expected ';' before '}' token
+  }
+  ^
+22:34:37 **** Incremental Build of configuration Debug for project Ex 7 - Factorials ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:34:12: error: stray '\' in program
+   printf(""\nFactorial of %d = %d", n, fact")
+            ^
+..\main.c:34:13: error: expected ')' before 'nFactorial'
+   printf(""\nFactorial of %d = %d", n, fact")
+             ^~~~~~~~~~
+..\main.c:34:10: warning: zero-length ms_printf format string [-Wformat-zero-length]
+   printf(""\nFactorial of %d = %d", n, fact")
+          ^~
+..\main.c:35:2: error: expected ';' before '}' token
+  }
+  ^
+22:34:41 **** Incremental Build of configuration Debug for project Ex 7 - Factorials ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:34:12: error: stray '\' in program
+   printf(""\nFactorial of %d = %d", n, fact")
+            ^
+..\main.c:34:13: error: expected ')' before 'nFactorial'
+   printf(""\nFactorial of %d = %d", n, fact")
+             ^~~~~~~~~~
+..\main.c:34:10: warning: zero-length ms_printf format string [-Wformat-zero-length]
+   printf(""\nFactorial of %d = %d", n, fact")
+          ^~
+..\main.c:35:2: error: expected ';' before '}' token
+  }
+  ^
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 4 - Positive or Negative
+Info: Nothing to build for Ex 5 - Alphabet or Not
+Info: Nothing to build for Ex 6 - Sum of Natural Numbers
+22:35:26 **** Incremental Build of configuration Debug for project Ex 7 - Factorials ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "Ex 7 - Factorials.exe" main.o 
+Info: Nothing to build for Ex 7 - Factorials
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 4 - Positive or Negative
+Info: Nothing to build for Ex 5 - Alphabet or Not
+Info: Nothing to build for Ex 6 - Sum of Natural Numbers
+22:36:16 **** Incremental Build of configuration Debug for project Ex 7 - Factorials ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:34:10: warning: missing terminating " character
+   printf("\nFactorial of 0 = 1);
+          ^
+..\main.c:34:10: error: missing terminating " character
+   printf("\nFactorial of 0 = 1);
+          ^~~~~~~~~~~~~~~~~~~~~~~
+..\main.c:35:2: error: expected expression before '}' token
+  }
+  ^
+..\main.c:35:2: error: expected ';' before '}' token
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 4 - Positive or Negative
+Info: Nothing to build for Ex 5 - Alphabet or Not
+Info: Nothing to build for Ex 6 - Sum of Natural Numbers
+22:36:28 **** Incremental Build of configuration Debug for project Ex 7 - Factorials ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "Ex 7 - Factorials.exe" main.o 
+Info: Nothing to build for Ex 7 - Factorials
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 4 - Positive or Negative
+Info: Nothing to build for Ex 5 - Alphabet or Not
+Info: Nothing to build for Ex 6 - Sum of Natural Numbers
+22:36:54 **** Incremental Build of configuration Debug for project Ex 7 - Factorials ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "Ex 7 - Factorials.exe" main.o 
+Info: Nothing to build for Ex 7 - Factorials
+Info: Nothing to build for Ex 7 - Factorials
+Info: Nothing to build for Ex 7 - Factorials
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 4 - Positive or Negative
+Info: Nothing to build for Ex 5 - Alphabet or Not
+Info: Nothing to build for Ex 6 - Sum of Natural Numbers
+Info: Nothing to build for Ex 7 - Factorials
+22:48:52 **** Rebuild of configuration Debug for project Ex 8 - Simple Calculator ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:14:7: error: expected identifier or '(' before '+' token
+  char +, -, *, /;
+       ^
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 4 - Positive or Negative
+Info: Nothing to build for Ex 5 - Alphabet or Not
+Info: Nothing to build for Ex 6 - Sum of Natural Numbers
+Info: Nothing to build for Ex 7 - Factorials
+22:49:05 **** Incremental Build of configuration Debug for project Ex 8 - Simple Calculator ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:14:7: error: expected identifier or '(' before '+' token
+  char +;
+       ^
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 4 - Positive or Negative
+Info: Nothing to build for Ex 5 - Alphabet or Not
+Info: Nothing to build for Ex 6 - Sum of Natural Numbers
+Info: Nothing to build for Ex 7 - Factorials
+22:49:07 **** Incremental Build of configuration Debug for project Ex 8 - Simple Calculator ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:14:7: error: expected identifier or '(' before '+' token
+  char +;
+       ^
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 4 - Positive or Negative
+Info: Nothing to build for Ex 5 - Alphabet or Not
+Info: Nothing to build for Ex 6 - Sum of Natural Numbers
+Info: Nothing to build for Ex 7 - Factorials
+22:53:28 **** Incremental Build of configuration Debug for project Ex 8 - Simple Calculator ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:14:7: warning: unused variable 'choice' [-Wunused-variable]
+  char choice;
+       ^~~~~~
+gcc -o "Ex 8 - Simple Calculator.exe" main.o 
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 4 - Positive or Negative
+Info: Nothing to build for Ex 5 - Alphabet or Not
+Info: Nothing to build for Ex 6 - Sum of Natural Numbers
+Info: Nothing to build for Ex 7 - Factorials
+22:55:48 **** Incremental Build of configuration Debug for project Ex 8 - Simple Calculator ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:23:10: error: expected expression before ')' token
+  switch ()
+          ^
+..\main.c:17:6: warning: unused variable 'result' [-Wunused-variable]
+  int result;
+      ^~~~~~
+..\main.c:16:6: warning: unused variable 'x2' [-Wunused-variable]
+  int x2;
+      ^~
+..\main.c:15:6: warning: unused variable 'x1' [-Wunused-variable]
+  int x1;
+      ^~
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 4 - Positive or Negative
+Info: Nothing to build for Ex 5 - Alphabet or Not
+Info: Nothing to build for Ex 6 - Sum of Natural Numbers
+Info: Nothing to build for Ex 7 - Factorials
+22:56:03 **** Incremental Build of configuration Debug for project Ex 8 - Simple Calculator ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:24:1: error: expected expression before '}' token
+ }
+ ^
+..\main.c:17:6: warning: unused variable 'result' [-Wunused-variable]
+  int result;
+      ^~~~~~
+..\main.c:16:6: warning: unused variable 'x2' [-Wunused-variable]
+  int x2;
+      ^~
+..\main.c:15:6: warning: unused variable 'x1' [-Wunused-variable]
+  int x1;
+      ^~
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 4 - Positive or Negative
+Info: Nothing to build for Ex 5 - Alphabet or Not
+Info: Nothing to build for Ex 6 - Sum of Natural Numbers
+Info: Nothing to build for Ex 7 - Factorials
+22:57:30 **** Incremental Build of configuration Debug for project Ex 8 - Simple Calculator ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:26:2: error: expected ':' or '...' before 'printf'
+  printf("Enter the Two Operands: ");
+  ^~~~~~
+..\main.c:17:6: warning: unused variable 'result' [-Wunused-variable]
+  int result;
+      ^~~~~~
+..\main.c:16:6: warning: unused variable 'x2' [-Wunused-variable]
+  int x2;
+      ^~
+..\main.c:15:6: warning: unused variable 'x1' [-Wunused-variable]
+  int x1;
+      ^~
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 4 - Positive or Negative
+Info: Nothing to build for Ex 5 - Alphabet or Not
+Info: Nothing to build for Ex 6 - Sum of Natural Numbers
+Info: Nothing to build for Ex 7 - Factorials
+22:58:17 **** Incremental Build of configuration Debug for project Ex 8 - Simple Calculator ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:25:10: error: expected ':' or '...' before ';' token
+  case '+';
+          ^
+..\main.c:28:10: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'int' [-Wformat=]
+  scanf("%d %d", x1, x2);
+          ^
+..\main.c:28:13: warning: format '%d' expects argument of type 'int *', but argument 3 has type 'int' [-Wformat=]
+  scanf("%d %d", x1, x2);
+             ^
+..\main.c:17:6: warning: unused variable 'result' [-Wunused-variable]
+  int result;
+      ^~~~~~
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 4 - Positive or Negative
+Info: Nothing to build for Ex 5 - Alphabet or Not
+Info: Nothing to build for Ex 6 - Sum of Natural Numbers
+Info: Nothing to build for Ex 7 - Factorials
+23:00:38 **** Incremental Build of configuration Debug for project Ex 8 - Simple Calculator ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:28:10: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'int' [-Wformat=]
+  scanf("%d %d", x1, x2);
+          ^
+..\main.c:28:13: warning: format '%d' expects argument of type 'int *', but argument 3 has type 'int' [-Wformat=]
+  scanf("%d %d", x1, x2);
+             ^
+..\main.c:17:6: warning: variable 'result' set but not used [-Wunused-but-set-variable]
+  int result;
+      ^~~~~~
+..\main.c:28:2: warning: 'x1' may be used uninitialized in this function [-Wmaybe-uninitialized]
+  scanf("%d %d", x1, x2);
+  ^~~~~~~~~~~~~~~~~~~~~~
+..\main.c:28:2: warning: 'x2' may be used uninitialized in this function [-Wmaybe-uninitialized]
+gcc -o "Ex 8 - Simple Calculator.exe" main.o 
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 4 - Positive or Negative
+Info: Nothing to build for Ex 5 - Alphabet or Not
+Info: Nothing to build for Ex 6 - Sum of Natural Numbers
+Info: Nothing to build for Ex 7 - Factorials
+23:01:48 **** Incremental Build of configuration Debug for project Ex 8 - Simple Calculator ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:28:10: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'int' [-Wformat=]
+  scanf("%d %d", x1, x2);
+          ^
+..\main.c:28:13: warning: format '%d' expects argument of type 'int *', but argument 3 has type 'int' [-Wformat=]
+  scanf("%d %d", x1, x2);
+             ^
+..\main.c:28:2: warning: 'x1' may be used uninitialized in this function [-Wmaybe-uninitialized]
+  scanf("%d %d", x1, x2);
+  ^~~~~~~~~~~~~~~~~~~~~~
+..\main.c:28:2: warning: 'x2' may be used uninitialized in this function [-Wmaybe-uninitialized]
+gcc -o "Ex 8 - Simple Calculator.exe" main.o 
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 4 - Positive or Negative
+Info: Nothing to build for Ex 5 - Alphabet or Not
+Info: Nothing to build for Ex 6 - Sum of Natural Numbers
+Info: Nothing to build for Ex 7 - Factorials
+23:06:18 **** Incremental Build of configuration Debug for project Ex 8 - Simple Calculator ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:29:11: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'int' [-Wformat=]
+   scanf("%d %d", x1, x2);
+           ^
+..\main.c:29:14: warning: format '%d' expects argument of type 'int *', but argument 3 has type 'int' [-Wformat=]
+   scanf("%d %d", x1, x2);
+              ^
+..\main.c:38:11: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'int' [-Wformat=]
+   scanf("%d %d", x1, x2);
+           ^
+..\main.c:38:14: warning: format '%d' expects argument of type 'int *', but argument 3 has type 'int' [-Wformat=]
+   scanf("%d %d", x1, x2);
+              ^
+..\main.c:47:11: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'int' [-Wformat=]
+   scanf("%d %d", x1, x2);
+           ^
+..\main.c:47:14: warning: format '%d' expects argument of type 'int *', but argument 3 has type 'int' [-Wformat=]
+   scanf("%d %d", x1, x2);
+              ^
+..\main.c:56:11: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'int' [-Wformat=]
+   scanf("%d %d", x1, x2);
+           ^
+..\main.c:56:14: warning: format '%d' expects argument of type 'int *', but argument 3 has type 'int' [-Wformat=]
+   scanf("%d %d", x1, x2);
+              ^
+..\main.c:62:2: error: 'default' label not within a switch statement
+  default:
+  ^~~~~~~
+..\main.c:64:3: error: break statement not within loop or switch
+   break;
+   ^~~~~
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 4 - Positive or Negative
+Info: Nothing to build for Ex 5 - Alphabet or Not
+Info: Nothing to build for Ex 6 - Sum of Natural Numbers
+Info: Nothing to build for Ex 7 - Factorials
+23:06:41 **** Incremental Build of configuration Debug for project Ex 8 - Simple Calculator ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:29:11: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'int' [-Wformat=]
+   scanf("%d %d", x1, x2);
+           ^
+..\main.c:29:14: warning: format '%d' expects argument of type 'int *', but argument 3 has type 'int' [-Wformat=]
+   scanf("%d %d", x1, x2);
+              ^
+..\main.c:38:11: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'int' [-Wformat=]
+   scanf("%d %d", x1, x2);
+           ^
+..\main.c:38:14: warning: format '%d' expects argument of type 'int *', but argument 3 has type 'int' [-Wformat=]
+   scanf("%d %d", x1, x2);
+              ^
+..\main.c:47:11: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'int' [-Wformat=]
+   scanf("%d %d", x1, x2);
+           ^
+..\main.c:47:14: warning: format '%d' expects argument of type 'int *', but argument 3 has type 'int' [-Wformat=]
+   scanf("%d %d", x1, x2);
+              ^
+..\main.c:56:11: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'int' [-Wformat=]
+   scanf("%d %d", x1, x2);
+           ^
+..\main.c:56:14: warning: format '%d' expects argument of type 'int *', but argument 3 has type 'int' [-Wformat=]
+   scanf("%d %d", x1, x2);
+              ^
+..\main.c:29:3: warning: 'x1' may be used uninitialized in this function [-Wmaybe-uninitialized]
+   scanf("%d %d", x1, x2);
+   ^~~~~~~~~~~~~~~~~~~~~~
+..\main.c:29:3: warning: 'x2' may be used uninitialized in this function [-Wmaybe-uninitialized]
+gcc -o "Ex 8 - Simple Calculator.exe" main.o 
+Info: Nothing to build for Ex 7 - Factorials
+Info: Nothing to build for Ex 8 - Simple Calculator
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 4 - Positive or Negative
+Info: Nothing to build for Ex 5 - Alphabet or Not
+Info: Nothing to build for Ex 6 - Sum of Natural Numbers
+Info: Nothing to build for Ex 7 - Factorials
+Info: Nothing to build for Ex 8 - Simple Calculator
+Info: Nothing to build for Ex 8 - Simple Calculator
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 4 - Positive or Negative
+Info: Nothing to build for Ex 5 - Alphabet or Not
+Info: Nothing to build for Ex 6 - Sum of Natural Numbers
+Info: Nothing to build for Ex 7 - Factorials
+23:18:52 **** Incremental Build of configuration Debug for project Ex 8 - Simple Calculator ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:29:11: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'int' [-Wformat=]
+   scanf("%d %d", x, y);
+           ^
+..\main.c:29:14: warning: format '%d' expects argument of type 'int *', but argument 3 has type 'int' [-Wformat=]
+   scanf("%d %d", x, y);
+              ^
+..\main.c:31:28: error: 'x1' undeclared (first use in this function)
+   printf("\n%d + %d = %d", x1, x2, result);
+                            ^~
+..\main.c:31:28: note: each undeclared identifier is reported only once for each function it appears in
+..\main.c:31:32: error: 'x2' undeclared (first use in this function)
+   printf("\n%d + %d = %d", x1, x2, result);
+                                ^~
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 4 - Positive or Negative
+Info: Nothing to build for Ex 5 - Alphabet or Not
+Info: Nothing to build for Ex 6 - Sum of Natural Numbers
+Info: Nothing to build for Ex 7 - Factorials
+23:19:13 **** Incremental Build of configuration Debug for project Ex 8 - Simple Calculator ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:29:11: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'int' [-Wformat=]
+   scanf("%d %d", x1, x2);
+           ^
+..\main.c:29:14: warning: format '%d' expects argument of type 'int *', but argument 3 has type 'int' [-Wformat=]
+   scanf("%d %d", x1, x2);
+              ^
+..\main.c:38:11: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'int' [-Wformat=]
+   scanf("%d %d", x1, x2);
+           ^
+..\main.c:38:14: warning: format '%d' expects argument of type 'int *', but argument 3 has type 'int' [-Wformat=]
+   scanf("%d %d", x1, x2);
+              ^
+..\main.c:47:11: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'int' [-Wformat=]
+   scanf("%d %d", x1, x2);
+           ^
+..\main.c:47:14: warning: format '%d' expects argument of type 'int *', but argument 3 has type 'int' [-Wformat=]
+   scanf("%d %d", x1, x2);
+              ^
+..\main.c:56:11: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'int' [-Wformat=]
+   scanf("%d %d", x1, x2);
+           ^
+..\main.c:56:14: warning: format '%d' expects argument of type 'int *', but argument 3 has type 'int' [-Wformat=]
+   scanf("%d %d", x1, x2);
+              ^
+..\main.c:29:3: warning: 'x1' may be used uninitialized in this function [-Wmaybe-uninitialized]
+   scanf("%d %d", x1, x2);
+   ^~~~~~~~~~~~~~~~~~~~~~
+..\main.c:29:3: warning: 'x2' may be used uninitialized in this function [-Wmaybe-uninitialized]
+gcc -o "Ex 8 - Simple Calculator.exe" main.o 
+Info: Nothing to build for Ex 8 - Simple Calculator
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 4 - Positive or Negative
+Info: Nothing to build for Ex 5 - Alphabet or Not
+Info: Nothing to build for Ex 6 - Sum of Natural Numbers
+Info: Nothing to build for Ex 7 - Factorials
+Info: Nothing to build for Ex 8 - Simple Calculator
+Info: Nothing to build for Ex 1 - Even or Odd
+Info: Nothing to build for Ex 2 - Vowel or Not
+Info: Nothing to build for Ex 3 - Largest Number
+Info: Nothing to build for Ex 4 - Positive or Negative
+Info: Nothing to build for Ex 5 - Alphabet or Not
+Info: Nothing to build for Ex 6 - Sum of Natural Numbers
+Info: Nothing to build for Ex 7 - Factorials
+20:16:52 **** Incremental Build of configuration Debug for project Ex 8 - Simple Calculator ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "Ex 8 - Simple Calculator.exe" main.o 
+Info: Nothing to build for Ex 8 - Simple Calculator
+Info: Nothing to build for Ex 8 - Simple Calculator

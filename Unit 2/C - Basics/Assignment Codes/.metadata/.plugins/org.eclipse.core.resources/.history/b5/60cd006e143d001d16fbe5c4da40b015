@@ -1,0 +1,17 @@
+/*
+ * main.c
+ *
+ *  Created on: Sep 25, 2022
+ *      Author: Omar Ahmed
+ */
+
+
+// This Program acts like a simple calculator (+, -, *, /)
+
+#include <stdio.h>
+int main()
+{
+	char choice;
+
+
+}

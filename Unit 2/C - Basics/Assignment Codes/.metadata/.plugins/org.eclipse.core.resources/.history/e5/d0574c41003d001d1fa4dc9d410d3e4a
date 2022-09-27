@@ -1,0 +1,15 @@
+/*
+ * main.c
+ *
+ *  Created on: Sep 25, 2022
+ *      Author: Omar Ahmed
+ */
+
+
+// This code decides whether the input number is EVEN or ODD
+
+#include <stdio.h>
+int main (int argc, char **argv)
+{
+
+}

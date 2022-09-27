@@ -1,0 +1,21 @@
+/*
+ * main.c
+ *
+ *  Created on: Sep 25, 2022
+ *      Author: Omar Ahmed
+ */
+
+
+// This Code checks whether the INPUT CHARACTER is a VOWEL or Not
+
+#include <stdio.h>
+int main()
+{
+	char c;
+
+	printf("Enter an Alphabet: ");
+	fflush(stdin); fflush(stdout);
+	scanf("%c", &c);
+
+	if
+}
